@@ -46,8 +46,3 @@ TOKEN = 'MON_TOKEN_BOT_DISCORD_AVEC_DROIT_ADMIN'
 
 `make run`
 
-
-### Niceuuuu
-# BOT-Discord
-# BOT-Discord
-# BOT-Discord
